@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library Assistant",
+  "description": "Modern digital library management system with catalog browsing, alphabetical indexing, book issue/return tracking, member management, analytics, and intelligent library assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
